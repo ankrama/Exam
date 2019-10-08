@@ -2,8 +2,10 @@ package org.itstep;
 
 import java.io.File;
 
+
+// TODO: было бы классно сделать базовый класс или интерфейс
 public class Pwd {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // TODO: зачем здесь этот метод?
 
 
 
