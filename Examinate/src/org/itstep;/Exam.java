@@ -22,7 +22,7 @@ public class Exam {
 
             System.out.printf("Введите команду: ");
             consScan = scanner.nextLine();
-            sp = consScan.split(" ");
+            sp = consScan.split(" "); // TODO: лучше было использовать trim
 
             switch (sp[0]){
                 case "dir": {
